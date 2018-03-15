@@ -1,1 +1,1 @@
-lcq creat
+lcq create
